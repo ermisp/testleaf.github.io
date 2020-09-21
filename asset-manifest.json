@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/testleaf.github.io/static/css/main.46000bd8.chunk.css",
+    "main.js": "/testleaf.github.io/static/js/main.e64fe228.chunk.js",
+    "main.js.map": "/testleaf.github.io/static/js/main.e64fe228.chunk.js.map",
+    "runtime-main.js": "/testleaf.github.io/static/js/runtime-main.c8e2fe71.js",
+    "runtime-main.js.map": "/testleaf.github.io/static/js/runtime-main.c8e2fe71.js.map",
+    "static/js/2.d2beb660.chunk.js": "/testleaf.github.io/static/js/2.d2beb660.chunk.js",
+    "static/js/2.d2beb660.chunk.js.map": "/testleaf.github.io/static/js/2.d2beb660.chunk.js.map",
+    "index.html": "/testleaf.github.io/index.html",
+    "precache-manifest.9a1b331e34010fe1072a7672ce17b987.js": "/testleaf.github.io/precache-manifest.9a1b331e34010fe1072a7672ce17b987.js",
+    "service-worker.js": "/testleaf.github.io/service-worker.js",
+    "static/css/main.46000bd8.chunk.css.map": "/testleaf.github.io/static/css/main.46000bd8.chunk.css.map",
+    "static/js/2.d2beb660.chunk.js.LICENSE.txt": "/testleaf.github.io/static/js/2.d2beb660.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8e2fe71.js",
+    "static/js/2.d2beb660.chunk.js",
+    "static/css/main.46000bd8.chunk.css",
+    "static/js/main.e64fe228.chunk.js"
+  ]
+}
